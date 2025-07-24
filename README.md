@@ -1,1 +1,1 @@
-# snowridergame.github.io
+Snow Rider is an adrenaline-packed snowboarding game where you navigate a sled through icy slopes, dodge obstacles, and unlock unique sleds in a thrilling 3D winter adventure.
